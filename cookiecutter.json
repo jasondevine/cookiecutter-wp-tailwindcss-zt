@@ -4,7 +4,7 @@
   "author_uri": "https://www.zendroidthemes.com",
   "theme_name": "tailwindcss-zt",
   "theme_name_full": "tailwindcss-zt",
-  "theme tags": "Tailwind, zendroidthemes, Wordpress, Gutenberg, Browsersync, Gulp"
+  "theme tags": "Tailwind, zendroidthemes, Wordpress, Gutenberg, Browsersync, Gulp",
   "theme_uri": "http://github.com/jasondevine/cookiecutter-wp-tailwindcss-zt",
   "short_description": "Basic Wordpress theme using Tailwindcss, gulp, and browsersync for easy development - deployed using Cookiecutter for scaffolding.",
   "version": "0.1",
