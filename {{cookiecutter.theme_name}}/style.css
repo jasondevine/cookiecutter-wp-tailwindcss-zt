@@ -1,0 +1,14 @@
+/*
+Theme Name: {{cookiecutter.theme_name_full}}
+Theme URI: {{cookiecutter.theme_uri}}
+Author: {{cookiecutter.author_name}}
+Author URI: {{cookiecutter.author_uri}}
+Description: {{cookiecutter.short_description}}
+Version: {{cookiecutter.version}}
+License: {{cookiecutter.license}}
+License URI: {{cookiecutter.license_uri}}
+Tags: {{cookiecutter.theme_tags}}
+Text Domain: {{cookiecutter.theme_name}}
+*/
+
+@import "css/main.css";
